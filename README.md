@@ -1,5 +1,7 @@
 # Frontend Mentor - Insure landing page
 
+<a href="https://competent-visvesvaraya-7e3107.netlify.app/"> Here's the link to the website clone. </a>
+
 ![Design preview for the Insure landing page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
