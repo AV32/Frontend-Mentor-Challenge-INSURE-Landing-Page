@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://competent-visvesvaraya-7e3107.netlify.app/)
+- Live Site URL: [Click Here to visit the website](https://competent-visvesvaraya-7e3107.netlify.app/)
 
 ## My process
 
